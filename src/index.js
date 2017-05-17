@@ -54,4 +54,4 @@ class Packets {
   }
 }
 
-module.export = Packets;
+module.exports = Packets;
