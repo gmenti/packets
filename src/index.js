@@ -54,4 +54,4 @@ class Packets {
   }
 }
 
-export default Packets;
+module.export = Packets;
