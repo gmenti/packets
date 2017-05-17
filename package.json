@@ -1,6 +1,6 @@
 {
   "name": "packets",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "description": "Packets formatter for browser js and node.js",
   "author": "Giuseppe Menti <mentifg@gmail.com>",
   "main": "./src/index.js",
